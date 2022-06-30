@@ -1,2 +1,2 @@
 # UX-Design
-A module covering multimedia and design of a website
+An educational website project demonstrating several sorting algorithms and their processes.
